@@ -1,3 +1,5 @@
+// leetcode reference: https://leetcode.com/problems/rearrange-string-k-distance-apart/
+
 import java.util.*;
 
 public class lc358 {
