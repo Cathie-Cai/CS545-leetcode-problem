@@ -38,6 +38,8 @@ public class lc19_linkedList {
     public static void main(String[] args) {
         lc19_linkedList sol = new lc19_linkedList();
         ListNode head = new ListNode(0);
+        ListNode next = new ListNode(1);
+        head.next = next;
         sol.removeNthFromEnd(head,2);
     }
 }
